@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Duniaalkilany/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical
-" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8)](https://github.com/Duniaalkilany/github-readme-stats" /> 
 </a>
 
 <a href="https://github.com/Duniaalkilany/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8)](https://github.com/Duniaalkilany/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+)](https://github.com/Duniaalkilany/github-readme-stats" />
 </a>
 
 
