@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&card_width=445px&bg_color=000000&text_color=FFFFFF&title_color=ff3377)
 
+# Contact me
 
+<img src="{https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white}" />
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical" />
