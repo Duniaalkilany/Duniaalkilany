@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8&theme=radical)](https://github.com/Duniaalkilany/github-readme-stats" /> 
 </a>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Duniaalkilany)](https://github.com/Duniaalkilany/github-readme-stats)
+
+
 
 
 
