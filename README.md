@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ![Duniaalkilany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical)
 
-<a href="https://github.com/Duniaalkilany/github-readme-stats">
-<img align="center"show_icons=true theme=radical  src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany)](https://github.com/Duniaalkilany/github-readme-stats" /> 
-</a>
-
 
 <a href="https://github.com/Duniaalkilany/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8&theme=radical)](https://github.com/Duniaalkilany/github-readme-stats" /> 
