@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical&bg_color=#000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact)
 
 
 
