@@ -1,5 +1,5 @@
-### Hi there 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=40px />
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=33px />
+
 
 
 <!--
