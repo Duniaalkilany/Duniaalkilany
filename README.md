@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Duniaalkilany/github-readme-stats">
-<img align="center"  style="background-color:red src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8&theme=radical)](https://github.com/Duniaalkilany/github-readme-stats" /> 
+<img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&langs_count=8&theme=radical)](https://github.com/Duniaalkilany/github-readme-stats" /> 
 </a>
 
 
