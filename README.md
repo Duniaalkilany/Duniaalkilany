@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.linkedin.com/in/dunia-alkilany-991ba31a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=400px />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=50px />
 </a>
 
 <a href="duniaalkilany908@gmail.com">
